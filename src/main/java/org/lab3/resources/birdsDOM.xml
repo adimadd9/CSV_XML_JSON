@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pasari>
+  <familie id="1" nume="Hirundinidae">
+    <pasare id="001">
+      <nume>Randunica</nume>
+      <specie>Hirundo rustica</specie>
+      <an_descoperire>1758</an_descoperire>
+      <tip>migratoare</tip>
+      <caracteristici>
+        <caracteristica>Zbor rapid</caracteristica>
+        <caracteristica>Cioc ascuțit</caracteristica>
+      </caracteristici>
+      <populatie_estimata>2000000</populatie_estimata>
+    </pasare>
+  </familie>
+  <familie id="2" nume="Accipitridae">
+    <pasare id="002">
+      <nume>Vultur</nume>
+      <specie>Aquila chrysaetos</specie>
+      <an_descoperire>1758</an_descoperire>
+      <tip>prădător</tip>
+      <caracteristici>
+        <caracteristica>Vedere ageră</caracteristica>
+        <caracteristica>Gheare puternice</caracteristica>
+      </caracteristici>
+      <populatie_estimata>150000</populatie_estimata>
+    </pasare>
+  </familie>
+  <familie id="3" nume="Anatidae">
+    <pasare id="003">
+      <nume>Rata</nume>
+      <specie>Anas platyrhynchos</specie>
+      <an_descoperire>1758</an_descoperire>
+      <tip>acvatică</tip>
+      <caracteristici>
+        <caracteristica>Penaj impermeabil</caracteristica>
+        <caracteristica>Cioc lat</caracteristica>
+      </caracteristici>
+      <populatie_estimata>3000000</populatie_estimata>
+    </pasare>
+    <pasare id="004">
+      <nume>Lebada</nume>
+      <specie>Cygnus olor</specie>
+      <an_descoperire>1758</an_descoperire>
+      <tip>acvatică</tip>
+      <caracteristici>
+        <caracteristica>Gât lung</caracteristica>
+        <caracteristica>Alb imaculat</caracteristica>
+      </caracteristici>
+      <populatie_estimata>500000</populatie_estimata>
+    </pasare>
+  </familie>
+  <familie id="4" nume="Spheniscidae">
+    <pasare id="005">
+      <nume>Pinguin</nume>
+      <specie>Aptenodytes forsteri</specie>
+      <an_descoperire>1844</an_descoperire>
+      <tip>polar</tip>
+      <caracteristici>
+        <caracteristica>Nu zboară</caracteristica>
+        <caracteristica>Înoată rapid</caracteristica>
+      </caracteristici>
+      <populatie_estimata>250000</populatie_estimata>
+    </pasare>
+  </familie>
+</pasari>

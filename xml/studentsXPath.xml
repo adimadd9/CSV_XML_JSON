@@ -1,0 +1,30 @@
+<?xml version = "1.0"?>
+
+<classes>
+    <class>
+        <student rollno = "493" newattr = "Attr3Value">
+            <firstname>dinkar</firstname>
+            <lastname>kad</lastname>
+            <nickname>dinkar</nickname>
+            <marks>85</marks>
+            <status>married</status>
+        </student>
+    </class>
+
+    <class2>
+        <student rollno = "493" newattr = "Attr33Value" >
+            <firstname>Vaneet</firstname>
+            <lastname>Gupta</lastname>
+            <nickname>vinni</nickname>
+            <marks>95</marks>
+            <student> new student</student>
+        </student>
+
+        <studenta rollno = "593" newattr = "Attr333Value">
+            <firstname>jasvir</firstname>
+            <lastname>singn</lastname>
+            <nickname>jazz</nickname>
+            <marks>90</marks>
+        </studenta>
+    </class2>
+</classes>
